@@ -1,2 +1,2 @@
-# liteageOS
+# LiteageOS
 The LiteageOS Project
