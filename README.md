@@ -7,15 +7,7 @@ It provides tools and scripts to modify the stock system by installing essential
 ---
 ## How to install it?
 
-imm too lazy to do thhat...
-
-but!
-
-you really need to run main.py in thhe git directory that i maded
-
-or
-
-build it yourself. (in that way you need only the main.py file)
+you asked how? build it yourself (main.py, adb, aapt)
 
 ---
 
