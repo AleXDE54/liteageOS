@@ -5,6 +5,10 @@ The LiteageOS Project
 It provides tools and scripts to modify the stock system by installing essential LineageOS apps and tweaks, making your device feel closer to the pure LineageOS environment without flashing a full ROM.
 
 ---
+## How to install it?
+
+
+---
 
 ## What is inside?
 
@@ -12,23 +16,6 @@ It provides tools and scripts to modify the stock system by installing essential
 - A minimalistic launcher: Litechair (a Lawnchair fork)  
 - Basic system utilities  
 - Optimizations for better performance and battery life  
-
----
-
-## What works well, what might not?
-
-| Application                  | Status            |
-|-----------------------------|-------------------|
-| Music.apk                   | Working           |
-| Files.apk                   | Working           |
-| Browser.apk                 | Working           |
-| Recorder.apk                | Working           |
-| Calendar.apk                | Working           |
-| Gallery.apk                 | Working           |
-| Litechair.apk (launcher)   | Working           |
-| LineageOS.Settings.apk       | May not work      |
-| Android.Keyboard.AOSP.apk    | May not work      |
-| Trebuchet.apk (launcher)     | May not work      |
 
 ---
 
