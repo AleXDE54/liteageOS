@@ -8,7 +8,7 @@ It provides tools and scripts to modify the stock system by installing essential
 
 ## What is inside?
 
-- Installation of core LineageOS apps (Music, Files, Browser, Recorder, Calendar, Gallery)  
+- Installation of core LineageOS apps
 - A minimalistic launcher: Litechair (a Lawnchair fork)  
 - Basic system utilities  
 - Optimizations for better performance and battery life  
